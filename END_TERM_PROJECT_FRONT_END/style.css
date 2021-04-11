@@ -1,0 +1,22 @@
+
+.bg{
+background-color:blue;
+color:white;
+padding: 20px;
+}
+
+#demo
+{
+margin-left:35%;
+margin-right:30%;
+}
+input
+{
+padding:10px;
+margin-left:20px;
+}
+#btn
+{
+background-color:blue;
+}
+
